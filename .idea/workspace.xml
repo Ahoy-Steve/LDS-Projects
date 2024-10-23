@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="603533c7-d9fa-48a3-b9f9-4d25dc3f4ba8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/HW3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex10Appearances.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex11Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex12Compositionoffunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex13Remarkablesums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex14Decimal-binaryconversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex15Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex16Remaindersmodulop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1ArithmaticProgession.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2Fibbonaci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex3ThesumoffirstNnaturalnumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex4Digitsofanumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex5Theexponentofanaturalnumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex6Primenumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex7GeatestCommomnDivisor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex8Themy_reversefunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex9Interval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2nViVmsyKvjaL2SrOXdjW5S6mIq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Ex10Appearances.executor": "Run",
+    "Python.Ex11Palindrome.executor": "Run",
+    "Python.Ex12Compositionoffunctions.executor": "Run",
+    "Python.Ex13Remarkablesums.executor": "Run",
+    "Python.Ex14Decimal-binaryconversion.executor": "Run",
+    "Python.Ex15Triangle.executor": "Run",
+    "Python.Ex16Remaindersmodulop.executor": "Run",
+    "Python.Ex1ArithmaticProgession.executor": "Run",
+    "Python.Ex2Fibbonaci.executor": "Run",
+    "Python.Ex3ThesumoffirstNnaturalnumbers.executor": "Run",
+    "Python.Ex4Digitsofanumber.executor": "Run",
+    "Python.Ex4Theexponentofanaturalnumber.executor": "Run",
+    "Python.Ex6Primenumber.executor": "Run",
+    "Python.Ex7GeatestCommomnDivisor.executor": "Run",
+    "Python.Ex8Themy_reversefunction.executor": "Run",
+    "Python.Ex9Interval.executor": "Run",
+    "Python.HW3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="603533c7-d9fa-48a3-b9f9-4d25dc3f4ba8" name="Changes" comment="" />
+      <created>1729064669462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729064669462</updated>
+    </task>
+    <servers />
+  </component>
+</project>
