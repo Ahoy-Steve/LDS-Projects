@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13608c5c-06fe-4dfd-b235-b8473459d6ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Building Lists/Part1/Ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Building Lists/Part1/Ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Building Lists/Part1/Ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Building Lists/Part1/Ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Building Lists/Part1/Ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Building Lists/Part1/Ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Building Lists/Part1/Ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Building Lists/Part1/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Building Lists/Part2/Ex1.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2o9LBZLk8DZmZch7Vqz3NwLMbmb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Ex1.executor": "Run",
+    "Python.Ex2.executor": "Run",
+    "Python.Ex3.executor": "Run",
+    "Python.Ex4.executor": "Run",
+    "Python.Ex5.executor": "Run",
+    "Python.Ex6.executor": "Run",
+    "Python.Ex7.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13608c5c-06fe-4dfd-b235-b8473459d6ff" name="Changes" comment="" />
+      <created>1730276709437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730276709437</updated>
+    </task>
+    <servers />
+  </component>
+</project>
