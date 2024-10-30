@@ -4,30 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="603533c7-d9fa-48a3-b9f9-4d25dc3f4ba8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HW3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex10Appearances.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex11Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex12Compositionoffunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex13Remarkablesums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex14Decimal-binaryconversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex15Triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex16Remaindersmodulop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex1ArithmaticProgession.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex2Fibbonaci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex3ThesumoffirstNnaturalnumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex4Digitsofanumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex5Theexponentofanaturalnumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex6Primenumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex7GeatestCommomnDivisor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex8Themy_reversefunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex9Interval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3.py" afterDir="false" />
+    <list default="true" id="603533c7-d9fa-48a3-b9f9-4d25dc3f4ba8" name="Changes" comment="hw3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex12Compositionoffunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex12Compositionoffunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex8Themy_reversefunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex8Themy_reversefunction.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ahoy-Steve&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ahoy-Steve/LDS-Projects.git&quot;,
+    &quot;accountId&quot;: &quot;5ab00ade-ae09-483d-9505-84add6c578a5&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -55,30 +47,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Ex10Appearances.executor": "Run",
-    "Python.Ex11Palindrome.executor": "Run",
-    "Python.Ex12Compositionoffunctions.executor": "Run",
-    "Python.Ex13Remarkablesums.executor": "Run",
-    "Python.Ex14Decimal-binaryconversion.executor": "Run",
-    "Python.Ex15Triangle.executor": "Run",
-    "Python.Ex16Remaindersmodulop.executor": "Run",
-    "Python.Ex1ArithmaticProgession.executor": "Run",
-    "Python.Ex2Fibbonaci.executor": "Run",
-    "Python.Ex3ThesumoffirstNnaturalnumbers.executor": "Run",
-    "Python.Ex4Digitsofanumber.executor": "Run",
-    "Python.Ex4Theexponentofanaturalnumber.executor": "Run",
-    "Python.Ex6Primenumber.executor": "Run",
-    "Python.Ex7GeatestCommomnDivisor.executor": "Run",
-    "Python.Ex8Themy_reversefunction.executor": "Run",
-    "Python.Ex9Interval.executor": "Run",
-    "Python.HW3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Ex10Appearances.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex11Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex12Compositionoffunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex13Remarkablesums.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex14Decimal-binaryconversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex15Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex16Remaindersmodulop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex1ArithmaticProgession.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex2Fibbonaci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex3ThesumoffirstNnaturalnumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex4Digitsofanumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex4Theexponentofanaturalnumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex6Primenumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex7GeatestCommomnDivisor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex8Themy_reversefunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex9Interval.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -95,6 +87,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729064669462</updated>
     </task>
+    <task id="LOCAL-00001" summary="hw3">
+      <option name="closed" value="true" />
+      <created>1729718487907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729718487907</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw3" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw3" />
   </component>
 </project>
